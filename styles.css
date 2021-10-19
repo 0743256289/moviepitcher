@@ -1,0 +1,126 @@
+
+ } 
+.d-sm-fle{
+    justify-content: space-between;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+/*--------------------------------Categories.html----------------------*/
+.text-primary{
+    font-size: 15px;
+    color: hsl(221, 94%, 26%);
+  }
+a:link {
+    color:#fff;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:whitesmoke;
+  }
+  /* site description */
+  
+  /* mouse over link */
+  a:hover {
+    color:#6399b3;
+  
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  a{text-decoration: none;}
+
+ 
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa {
+    padding: 1rem;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+
+      
+  .box {
+    height:100%;
+    width:100%;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction:row;
+    background-color:white;
+   }
+   .box img{
+    max-width: 300px;
+    height: 200px;
+   }
+   /* site description */
+  .carousel-item{
+    max-height: 600px;
+    height: 500px;
+    width:  100%;
+    background-size: cover;
+    align-content: center;
+    top: 40%;
+    
+  }
+.carousel-caption{
+  bottom: 80px;;
+  padding-left:80px;
+  padding-right: 80px;
+  font-size: 15px;}
+.carousel-caption h5{
+  font: 35px;
+  font-size: 35px;
+  font-display: 25px;
+  
+  
+}
+
+
+
